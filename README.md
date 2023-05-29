@@ -1,5 +1,5 @@
 # Azure Functions
-## Chat using ChatGPT (.NET C# Isolated Function)
+## Chat using ChatGPT (.NET C# v4 Isolated Function)
 
 This sample shows how to take a ChatGPT prompt as HTTP Get or Post input, calculates the completions using OpenAI ChatGPT service, and then returns the output plus caches in a Blob state store.  
 
